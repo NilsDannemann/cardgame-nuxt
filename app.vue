@@ -3,13 +3,11 @@
     <header>Header</header>
 
     <div class="flex-1 flex flex-row">
-      <AppSidebar location="left"/>
+      <AppSidebar />
       
-      <main class="flex-1">
-        
-      </main>
+      <main class="flex-1"></main>
 
-      <AppSidebar location="right" />
+      <AppSidebar />
     </div>
 
     <footer>Footer</footer>
